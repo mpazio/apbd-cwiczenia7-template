@@ -1,4 +1,4 @@
-# Ćwiczenia5
+# Ćwiczenia7
 
 W niniejszym zadaniu skorzystamy z biblioteki **EntityFramework Core**.
 
@@ -6,7 +6,7 @@ W niniejszym zadaniu skorzystamy z biblioteki **EntityFramework Core**.
 
 Poniżej przedstawiony jest diagram na którym będziemy pracować.
 
-![alt text](../SqlData/cw7DatabaseERD.PNG "Title")
+![alt text](./SqlData/cw7DatabaseERD.PNG "Title")
 
 ## Wymogi zadania
 
